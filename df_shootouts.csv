@@ -1,0 +1,75 @@
+,date,home_team,away_team,winner,country,year,continent,lifeExp,pop,gdpPercap
+0,1967-08-22,India,Taiwan,Taiwan,Chile,1967,Americas,60.523,8858908,5106.654313
+1,1972-05-07,South Korea,Iraq,Iraq,Chile,1972,Americas,63.441,9717524,5494.024437
+2,1972-05-17,Thailand,South Korea,South Korea,Chile,1972,Americas,63.441,9717524,5494.024437
+3,1972-05-19,Thailand,Cambodia,Thailand,Argentina,1972,Americas,67.065,24779799,9443.038526
+4,1977-01-09,Tunisia,Morocco,Tunisia,Argentina,1977,Americas,68.481,26983828,10079.02674
+5,1977-03-22,Argentina,Iran,Argentina,Argentina,1977,Americas,68.481,26983828,10079.02674
+6,1977-06-26,Zambia,Algeria,Zambia,Argentina,1977,Americas,68.481,26983828,10079.02674
+7,1977-07-27,Iran,Morocco,Iran,Uruguay,1977,Americas,69.481,2873520,6504.339663
+8,1977-08-31,Paraguay,Argentina,Paraguay,Uruguay,1977,Americas,69.481,2873520,6504.339663
+9,1982-02-21,Ivory Coast,Togo,Togo,Brazil,1982,Americas,63.336,128962939,7030.835878
+10,1982-02-22,Ivory Coast,Burkina Faso,Burkina Faso,Brazil,1982,Americas,63.336,128962939,7030.835878
+11,1982-03-19,Libya,Ghana,Ghana,Argentina,1982,Americas,69.942,29341374,8997.897412
+12,1982-05-15,Thailand,Singapore,Thailand,Argentina,1982,Americas,69.942,29341374,8997.897412
+13,1982-05-17,Thailand,South Korea,Thailand,Argentina,1982,Americas,69.942,29341374,8997.897412
+14,1982-07-08,Germany,France,Germany,Argentina,1982,Americas,69.942,29341374,8997.897412
+15,1982-10-17,Indonesia,Malaysia,Indonesia,Argentina,1982,Americas,69.942,29341374,8997.897412
+16,1982-11-27,Uganda,Kenya,Kenya,Chile,1982,Americas,70.565,11487112,5095.665738
+17,1987-03-01,Mali,Sierra Leone,Mali,Argentina,1987,Americas,70.774,31620918,9139.671389
+18,1987-03-02,Senegal,Sierra Leone,Senegal,Argentina,1987,Americas,70.774,31620918,9139.671389
+19,1987-12-13,Malawi,Zimbabwe,Zimbabwe,Argentina,1987,Americas,70.774,31620918,9139.671389
+20,1987-06-19,Australia,Egypt,Australia,Brazil,1987,Americas,65.205,142938076,7807.095818
+21,1987-06-21,South Korea,Australia,South Korea,Brazil,1987,Americas,65.205,142938076,7807.095818
+22,1987-07-19,DR Congo,Senegal,DR Congo,Brazil,1987,Americas,65.205,142938076,7807.095818
+23,1987-12-18,Equatorial Guinea,Gabon,Gabon,Brazil,1987,Americas,65.205,142938076,7807.095818
+24,1987-12-27,Ethiopia,Zimbabwe,Ethiopia,Brazil,1987,Americas,65.205,142938076,7807.095818
+25,1992-01-23,Cameroon,Ivory Coast,Ivory Coast,Uruguay,1992,Americas,72.752,3149262,8137.004775
+26,1992-01-26,Ghana,Ivory Coast,Ivory Coast,Uruguay,1992,Americas,72.752,3149262,8137.004775
+27,1992-08-29,Japan,South Korea,Japan,Uruguay,1992,Americas,72.752,3149262,8137.004775
+28,1992-09-15,Syria,Egypt,Egypt,Uruguay,1992,Americas,72.752,3149262,8137.004775
+29,1992-11-08,China PR,United Arab Emirates,China PR,Uruguay,1992,Americas,72.752,3149262,8137.004775
+30,1992-11-25,Uganda,Zambia,Uganda,Uruguay,1992,Americas,72.752,3149262,8137.004775
+31,1992-06-22,Netherlands,Denmark,Denmark,Argentina,1992,Americas,71.868,33958947,9308.41871
+32,1992-06-27,Cuba,Martinique,Martinique,Argentina,1992,Americas,71.868,33958947,9308.41871
+33,1997-02-07,Russia,Serbia,Russia,Argentina,1997,Americas,73.275,36203463,10967.28195
+34,1997-04-10,India,Iraq,Iraq,Argentina,1997,Americas,73.275,36203463,10967.28195
+35,1997-06-22,Ecuador,Mexico,Mexico,Argentina,1997,Americas,73.275,36203463,10967.28195
+36,1997-07-10,Trinidad and Tobago,Jamaica,Trinidad and Tobago,Argentina,1997,Americas,73.275,36203463,10967.28195
+37,1997-10-20,Haiti,Cuba,Haiti,Argentina,1997,Americas,73.275,36203463,10967.28195
+38,1997-10-22,Cuba,Cameroon,Cuba,Bolivia,1997,Americas,62.05,7693188,3326.143191
+39,1997-12-07,Gambia,Guinea,Guinea,Bolivia,1997,Americas,62.05,7693188,3326.143191
+40,2002-01-06,Martinique,Haiti,Martinique,Peru,2002,Americas,69.906,26769436,5909.020073
+41,2002-01-26,Canada,Martinique,Canada,Peru,2002,Americas,69.906,26769436,5909.020073
+42,2002-01-27,Mexico,South Korea,South Korea,Peru,2002,Americas,69.906,26769436,5909.020073
+43,2002-09-05,Iraq,Iran,Iraq,Peru,2002,Americas,69.906,26769436,5909.020073
+44,2002-09-07,Syria,Iran,Iran,Peru,2002,Americas,69.906,26769436,5909.020073
+45,2002-09-17,Iran,Morocco,Iran,Peru,2002,Americas,69.906,26769436,5909.020073
+46,2002-09-19,Iran,Paraguay,Iran,Peru,2002,Americas,69.906,26769436,5909.020073
+47,2002-10-23,Kenya,South Africa,Kenya,Peru,2002,Americas,69.906,26769436,5909.020073
+48,2002-01-30,United States,Canada,United States,Paraguay,2002,Americas,70.755,5884491,3783.674243
+49,2002-02-10,Senegal,Cameroon,Cameroon,Paraguay,2002,Americas,70.755,5884491,3783.674243
+50,2002-02-12,Cyprus,Switzerland,Cyprus,Paraguay,2002,Americas,70.755,5884491,3783.674243
+51,2002-10-26,Tanzania,South Africa,South Africa,Paraguay,2002,Americas,70.755,5884491,3783.674243
+52,2002-10-26,Kenya,Uganda,Kenya,Paraguay,2002,Americas,70.755,5884491,3783.674243
+53,2002-11-19,South Africa,Senegal,Senegal,Paraguay,2002,Americas,70.755,5884491,3783.674243
+54,2002-12-27,Niger,Burkina Faso,Burkina Faso,Paraguay,2002,Americas,70.755,5884491,3783.674243
+55,2002-12-29,Niger,Mali,Niger,Paraguay,2002,Americas,70.755,5884491,3783.674243
+56,2002-02-15,China PR,Slovenia,Slovenia,Argentina,2002,Americas,74.34,38331121,8797.640716
+57,2002-02-16,Thailand,North Korea,North Korea,Argentina,2002,Americas,74.34,38331121,8797.640716
+58,2002-03-30,Botswana,South Africa,South Africa,Argentina,2002,Americas,74.34,38331121,8797.640716
+59,2002-05-17,Russia,Belarus,Belarus,Argentina,2002,Americas,74.34,38331121,8797.640716
+60,2002-05-19,Russia,Serbia,Serbia,Argentina,2002,Americas,74.34,38331121,8797.640716
+61,2002-06-16,Spain,Republic of Ireland,Spain,Argentina,2002,Americas,74.34,38331121,8797.640716
+62,2002-06-22,South Korea,Spain,South Korea,Argentina,2002,Americas,74.34,38331121,8797.640716
+63,2002-07-21,South Africa,Madagascar,South Africa,Argentina,2002,Americas,74.34,38331121,8797.640716
+64,2007-04-29,Mozambique,Zimbabwe,Mozambique,Uruguay,2007,Americas,76.384,3447496,10611.46299
+65,2007-05-26,Malawi,South Africa,South Africa,Uruguay,2007,Americas,76.384,3447496,10611.46299
+66,2007-05-26,Eswatini,Mauritius,Mauritius,Uruguay,2007,Americas,76.384,3447496,10611.46299
+67,2007-07-10,Uruguay,Brazil,Brazil,Uruguay,2007,Americas,76.384,3447496,10611.46299
+68,2007-07-21,Japan,Australia,Japan,Uruguay,2007,Americas,76.384,3447496,10611.46299
+69,2007-07-22,Iran,South Korea,South Korea,Uruguay,2007,Americas,76.384,3447496,10611.46299
+70,2007-07-25,Iraq,South Korea,Iraq,Uruguay,2007,Americas,76.384,3447496,10611.46299
+71,2007-07-28,South Korea,Japan,South Korea,Uruguay,2007,Americas,76.384,3447496,10611.46299
+72,2007-07-29,Botswana,Angola,Botswana,Sweden,2007,Europe,80.884,9031088,33859.74835
+73,2007-10-24,South Africa,Zambia,South Africa,Sweden,2007,Europe,80.884,9031088,33859.74835
